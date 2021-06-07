@@ -13,11 +13,11 @@ The only requirement is that it maintains basic the functionality of a timer/sto
 
 ### Timer
 
-![page image](timer.gif?raw=true)
+![page image](src/assets/images/timer.gif?raw=true)
 
 ### Stopwatch
 
-![page image](stopwatch.gif?raw=true)
+![page image](src/assets/images/stopwatch.gif?raw=true)
 
 ## Getting started
 
